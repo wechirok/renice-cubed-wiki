@@ -17,14 +17,6 @@
 | `weatherRadius` | `10` | `5` |
 | `prioritizeChunkUpdates` | `1` | `0` |
 
-## UI & HUD
-
-| Option | Vanilla | Renice³ |
-|---|---:|---:|
-| `guiScale` | `0` | `3` |
-| `operatorItemsTab` | `false` | `true` |
-| `tutorialStep` | `movement` | `none` |
-
 ## First-launch and your privacy
 
 | Option | Vanilla | Renice³ |
@@ -33,6 +25,14 @@
 | `onboardAccessibility` | `false` | `false` |
 | `skipMultiplayerWarning` | `false` | `true` |
 | `telemetryOptInExtra` | `false` | `false` |
+
+## UI & HUD
+
+| Option | Vanilla | Renice³ |
+|---|---:|---:|
+| `guiScale` | `0` | `3` |
+| `operatorItemsTab` | `false` | `true` |
+| `tutorialStep` | `movement` | `none` |
 
 ## Resource packs
 

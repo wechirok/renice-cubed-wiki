@@ -93,7 +93,7 @@ Default Renice³ map controls:
 | New Waypoint | `B` |
 | Waypoints List | `U` |
 | Toggle Minimap | `;` |
-| Instant Waypoint | `Numpad +` |
+| Instant Waypoint | `.` |
 | Open Minimap Settings | `]` |
 | Quick Confirm | `Right Shift` |
 

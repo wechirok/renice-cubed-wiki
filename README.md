@@ -8,12 +8,12 @@ It is meant to help you quickly find practical information about how the pack is
 
 ## Wiki contents
 
-- **[Standard options](standard-options.md)** — Documents bundled Minecraft options and mod config changes.
-- **[Mod usage](mod-usage.md)** — Explains practical usage of selected utility mods and their keybinds.
-- **[Multiplayer](multiplayer.md)** — Explains how to open a world to friends and notes multiplayer restrictions.
+- **[Standard options](standard-options.md)** — lists the vanilla settings replaced by the modpack’s default options.
+- **[Mod usage](mod-usage.md)** — explains practical usage of selected utility mods and their keybinds.
+- **[Multiplayer](multiplayer.md)** — explains how to open a world to friends and notes multiplayer restrictions.
 
 ## External resources
 
-- **[GitHub repository](https://github.com/wechirok/renice-cubed)** — Main project repository.
-- **[Mod list](https://github.com/wechirok/renice-cubed/blob/main/MOD-LIST.md)** — Current included mods.
-- **[Changelog](https://github.com/wechirok/renice-cubed/blob/main/CHANGELOG.md)** — Release history.
+- **[GitHub repository](https://github.com/wechirok/renice-cubed)** — main project repository.
+- **[Mod list](https://github.com/wechirok/renice-cubed/blob/main/MOD-LIST.md)** — current included mods.
+- **[Changelog](https://github.com/wechirok/renice-cubed/blob/main/CHANGELOG.md)** — release history.

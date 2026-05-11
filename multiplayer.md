@@ -69,7 +69,7 @@ Renice³ includes client-side chat improvements for a cleaner multiplayer experi
 | **More Chat History** | Keeps a larger chat history than vanilla |
 | **Chat Heads** | Adds player heads next to chat messages |
 
-These mods are mainly quality-of-life changes. Server-side chat rules still apply.
+These mods are mainly QoL/cosmetic changes. Server-side chat rules still apply.
 
 ## Maps and waypoints
 

@@ -17,7 +17,7 @@
 | `weatherRadius` | `10` | `5` |
 | `prioritizeChunkUpdates` | `1` | `0` |
 
-## Interface and game settings
+## UI & HUD
 
 | Option | Vanilla | Renice³ |
 |---|---:|---:|
@@ -25,7 +25,7 @@
 | `operatorItemsTab` | `false` | `true` |
 | `tutorialStep` | `movement` | `none` |
 
-## Hidden options
+## First-launch and your privacy
 
 | Option | Vanilla | Renice³ |
 |---|---:|---:|

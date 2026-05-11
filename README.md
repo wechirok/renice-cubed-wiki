@@ -1,8 +1,10 @@
 # Renice³ Wiki
 
+Greetings!
+
 This wiki is a compact reference for Renice³-specific configuration, utility workflows and multiplayer notes.
 
-It is not an introduction to the modpack. For the mod list, changelog and project files, use the external resources below.
+It is meant to help you quickly find practical information about how the pack is configured, how selected utility mods are intended to be used, and what to keep in mind when playing with others.
 
 ## Wiki contents
 

@@ -8,7 +8,7 @@ It is meant to help you quickly find practical information about how the pack is
 
 ## Wiki contents
 
-- **[Changed options](changed-options.md)** — Documents bundled Minecraft options and mod config changes.
+- **[Standard options](standard-options.md)** — Documents bundled Minecraft options and mod config changes.
 - **[Mod usage](mod-usage.md)** — Explains practical usage of selected utility mods and their keybinds.
 - **[Multiplayer](multiplayer.md)** — Explains how to open a world to friends and notes multiplayer restrictions.
 

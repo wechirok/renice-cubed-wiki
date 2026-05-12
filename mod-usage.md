@@ -6,6 +6,10 @@ Due to the number of QoL and tweak mods, many additional hotkeys are added, and 
 
 Because of this, the modpack may have a specific but still convenient and practical set of hotkeys. You can always change them to your preference by going to **Options → Controls → Key Binds…**.
 
+{% hint style="warning" %}
+Not all functionality and hotkeys are listed here. For deeper reference visit [our GitHub repo](https://github.com/wechirok/renice-cubed) or go directly to the [mod list](https://github.com/wechirok/renice-cubed/blob/main/MOD-LIST.md), then open the mod you need and check its documentation. 
+{% endhint %}
+
 ## General utility
 
 | Mod / Feature | Action | Key |

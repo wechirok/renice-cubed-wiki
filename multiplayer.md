@@ -44,7 +44,6 @@ Renice³ uses these voice chat controls:
 | Disable Voice Chat | `,` |
 | Hide Voice Chat Icons | `[` |
 | Open Group Chat | `G` |
-| Adjust Voice Chat Volumes | Not bound |
 
 You can change these in **Options** → **Controls**.
 

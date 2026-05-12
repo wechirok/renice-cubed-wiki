@@ -12,7 +12,7 @@ Some public servers have their own rules for minimaps, entity radar, accurate bl
 
 ## Opening a world to friends
 
-With **e4mc**, you can open a singleplayer world to friends without setting up a dedicated server or opening ports.
+With [**e4mc**](https://modrinth.com/mod/e4mc), you can open a singleplayer world to friends without setting up a dedicated server or opening ports.
 
 To host a temporary world:
 
@@ -27,7 +27,7 @@ To host a temporary world:
 
 ## Voice chat
 
-**Simple Voice Chat** adds proximity voice chat and group voice chat.
+[**Simple Voice Chat**](https://modrinth.com/plugin/simple-voice-chat) adds proximity voice chat and group voice chat.
 
 {% hint style="warning" %}
 Voice chat is server-based. It works when the server supports it. On servers without Simple Voice Chat, you can still play normally, but the voice chat features are unavailable.
@@ -45,7 +45,7 @@ Renice³ uses these voice chat controls:
 | Hide Voice Chat Icons | `[` |
 | Open Group Chat | `G` |
 
-You can change these in **Options** → **Controls**.
+You can change these in **Options** → **Controls** → **Key binds...**.
 
 ## Proximity and group voice
 

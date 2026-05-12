@@ -14,7 +14,6 @@ Not all functionality and hotkeys are listed here. For deeper reference visit [o
 
 | Mod / Feature | Action | Key |
 |---|---|---:|
-| Accurate Block Placement | Toggle vanilla placement | `Grave Accent` |
 | Debug | Cycle spectator | `Right Alt` |
 | Debug | Show chunk boundaries | `Insert` |
 | Fabrishot | Take 4K screenshot | `F9` |
@@ -79,6 +78,7 @@ Not all functionality and hotkeys are listed here. For deeper reference visit [o
 |---|---:|
 | Open config | `X` + `C` |
 | Open camera preset editor | `X` + `P` |
+| Fast block placement | `Grave Accent` |
 | Flexible block placement offset | `Left Shift` |
 | Flexible block placement rotation | `Left Alt` |
 | Inventory preview | `Left Alt` |

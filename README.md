@@ -2,7 +2,7 @@
 
 ![](https://www.dropbox.com/scl/fi/sfumw1bzi88tfowllsime/rc_main-page-artwork.png?rlkey=x4r0rsmogbu0p258y02o2zbu3&raw=1)
 
-Greetings!
+Greetings! :з
 
 This wiki is a compact reference for configuration, utility workflows, multiplayer notes, and other practical details.
 

@@ -6,7 +6,9 @@ Renice³ is comfortable for both regular servers and small sessions with friends
 
 Renice³ keeps multiplayer simple: join a server, check its rules, and play as usual. Client-side features such as maps, HUD elements, chat improvements, zoom, and visual utilities work alongside normal server gameplay.
 
+{% hint style="warning" %}
 Some public servers have their own rules for minimaps, entity radar, accurate block placement, overlays, Tweakeroo, schematics, or chat-related mods. Follow the rules of the server you are playing on.
+{% endhint %}
 
 ## Opening a world to friends
 

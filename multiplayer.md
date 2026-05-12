@@ -12,7 +12,7 @@ Some public servers have their own rules for minimaps, entity radar, accurate bl
 
 ## Opening a world to friends
 
-The modpack includes **e4mc**, which lets you open a singleplayer world to friends without setting up a dedicated server or opening ports.
+With **e4mc**, you can open a singleplayer world to friends without setting up a dedicated server or opening ports.
 
 To host a temporary world:
 
@@ -27,9 +27,11 @@ To host a temporary world:
 
 ## Voice chat
 
-The modpack includes **Simple Voice Chat** for proximity voice chat and group voice chat.
+**Simple Voice Chat** adds proximity voice chat and group voice chat.
 
-Voice chat is server-based. It works when the server supports Simple Voice Chat. On servers without Simple Voice Chat, you can still play normally, but the voice chat features are unavailable.
+{% hint style="warning" %}
+Voice chat is server-based. It works when the server supports it. On servers without Simple Voice Chat, you can still play normally, but the voice chat features are unavailable.
+{% endhint %}
 
 ## Voice chat controls
 
@@ -63,7 +65,7 @@ If you want distance-based voice again, leave the group and return to proximity 
 
 ## Chat improvements
 
-The modpack includes client-side chat improvements for a cleaner multiplayer experience.
+Several client-side chat improvements are included for a cleaner multiplayer experience.
 
 | Mod | What it does |
 |---|---|
@@ -75,7 +77,7 @@ These mods are mainly QoL/cosmetic changes. Server-side chat rules still apply.
 
 ## Maps and waypoints
 
-The modpack includes **Xaero's Minimap** and **Xaero's World Map** for navigation.
+Navigation is handled by **Xaero's Minimap** and **Xaero's World Map**.
 
 Useful multiplayer features include:
 

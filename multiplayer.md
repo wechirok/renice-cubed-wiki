@@ -21,7 +21,7 @@ To host a temporary world:
 5. Click **Start LAN World**.
 6. Copy the public address shown in chat.
 7. Send the address to your friends.
-8. Other players can join through **Multiplayer** → **Direct Connection**, or by adding the address as a server.
+8. Your friends can join through **Multiplayer** → **Direct Connection**, or by adding the address as a server.
 
 ## Voice chat
 

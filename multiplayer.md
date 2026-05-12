@@ -77,12 +77,12 @@ Renice³ includes **Xaero's Minimap** and **Xaero's World Map** for navigation.
 
 Useful multiplayer features include:
 
+- waypoint sharing through chat;
 - minimap view;
 - full-screen world map;
 - local waypoints;
 - deathpoints;
-- waypoint lists;
-- waypoint sharing through chat.
+- waypoint lists.
 
 Default Renice³ map controls:
 

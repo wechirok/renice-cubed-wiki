@@ -76,7 +76,7 @@ These mods are mainly QoL/cosmetic changes. Server-side chat rules still apply.
 
 ## Maps and waypoints
 
-Navigation is handled by **[Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap/versions)** and **[Xaero's World Map*](https://modrinth.com/mod/xaeros-world-map)*.
+Navigation is handled by **[Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap/versions)** and [**Xaero's World Map**](https://modrinth.com/mod/xaeros-world-map).
 
 Useful multiplayer features include:
 

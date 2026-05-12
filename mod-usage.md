@@ -39,7 +39,7 @@ Not all functionality and hotkeys are listed here. For deeper reference visit [o
 | Toggle shaders | `K` |
 | Open shader pack selection | `O` |
 
-## Voice chat
+## Simple Voice Chat
 
 | Action | Key |
 |---|---:|

@@ -8,7 +8,7 @@ Renice³ keeps multiplayer simple: join a server, check its rules, and play as u
 
 Some public servers have their own rules for minimaps, entity radar, accurate block placement, overlays, Tweakeroo, schematics, or chat-related mods. Follow the rules of the server you are playing on.
 
-## Opening a world to friends with e4mc
+## Opening a world to friends
 
 Renice³ includes **e4mc**, which lets you open a singleplayer world to friends without setting up a dedicated server or opening ports.
 

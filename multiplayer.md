@@ -1,10 +1,10 @@
 # Multiplayer
 
-Renice³ is comfortable for both regular servers and small sessions with friends. The pack adds temporary world hosting, proximity voice chat, cleaner chat behavior, and better navigation tools without changing the core multiplayer flow.
+The modpack is comfortable for both regular servers and small sessions with friends. The pack adds temporary world hosting, proximity voice chat, cleaner chat behavior, and better navigation tools without changing the core multiplayer flow.
 
 ## Joining servers
 
-Renice³ keeps multiplayer simple: join a server, check its rules, and play as usual. Client-side features such as maps, HUD elements, chat improvements, zoom, and visual utilities work alongside normal server gameplay.
+The modpack keeps multiplayer simple: join a server, check its rules, and play as usual. Client-side features such as maps, HUD elements, chat improvements, zoom, and visual utilities work alongside normal server gameplay.
 
 {% hint style="warning" %}
 Some public servers have their own rules for minimaps, entity radar, accurate block placement, overlays, Tweakeroo, schematics, or chat-related mods. Follow the rules of the server you are playing on.
@@ -12,7 +12,7 @@ Some public servers have their own rules for minimaps, entity radar, accurate bl
 
 ## Opening a world to friends
 
-Renice³ includes **e4mc**, which lets you open a singleplayer world to friends without setting up a dedicated server or opening ports.
+The modpack includes **e4mc**, which lets you open a singleplayer world to friends without setting up a dedicated server or opening ports.
 
 To host a temporary world:
 
@@ -27,7 +27,7 @@ To host a temporary world:
 
 ## Voice chat
 
-Renice³ includes **Simple Voice Chat** for proximity voice chat and group voice chat.
+The modpack includes **Simple Voice Chat** for proximity voice chat and group voice chat.
 
 Voice chat is server-based. It works when the server supports Simple Voice Chat. On servers without Simple Voice Chat, you can still play normally, but the voice chat features are unavailable.
 
@@ -63,7 +63,7 @@ If you want distance-based voice again, leave the group and return to proximity 
 
 ## Chat improvements
 
-Renice³ includes client-side chat improvements for a cleaner multiplayer experience.
+The modpack includes client-side chat improvements for a cleaner multiplayer experience.
 
 | Mod | What it does |
 |---|---|
@@ -75,7 +75,7 @@ These mods are mainly QoL/cosmetic changes. Server-side chat rules still apply.
 
 ## Maps and waypoints
 
-Renice³ includes **Xaero's Minimap** and **Xaero's World Map** for navigation.
+The modpack includes **Xaero's Minimap** and **Xaero's World Map** for navigation.
 
 Useful multiplayer features include:
 

@@ -2,3 +2,4 @@
 * [Standard options](standard-options.md)
 * [Mod usage](mod-usage.md)
 * [Multiplayer](multiplayer.md)
+* [Updates and versions](updates-and-versions.md)

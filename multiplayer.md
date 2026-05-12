@@ -68,15 +68,15 @@ Several client-side chat improvements are included for a cleaner multiplayer exp
 
 | Mod | What it does |
 |---|---|
-| **No Chat Reports** | Changes how chat reporting and message signing are handled on supported servers |
-| **More Chat History** | Keeps a larger chat history than vanilla |
-| **Chat Heads** | Adds player heads next to chat messages |
+| **[No Chat Reports](https://modrinth.com/mod/no-chat-reports)** | Changes how chat reporting and message signing are handled on supported servers |
+| **[More Chat History](https://modrinth.com/mod/morechathistory)** | Keeps a larger chat history than vanilla |
+| **[Chat Heads](https://modrinth.com/mod/chat-heads)** | Adds player heads next to chat messages |
 
 These mods are mainly QoL/cosmetic changes. Server-side chat rules still apply.
 
 ## Maps and waypoints
 
-Navigation is handled by **Xaero's Minimap** and **Xaero's World Map**.
+Navigation is handled by **[Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap/versions)** and **[Xaero's World Map*](https://modrinth.com/mod/xaeros-world-map)*.
 
 Useful multiplayer features include:
 
@@ -99,5 +99,3 @@ Default Renice³ map controls:
 | Instant Waypoint | `.` |
 | Open Minimap Settings | `]` |
 | Quick Confirm | `Right Shift` |
-
-Waypoints are useful for bases, portals, farms, villages, structures, and death locations. On public servers, use map features according to that server's rules.

@@ -14,7 +14,7 @@ A.B.C-stage
 
 ## Release stages
 
-- `alpha` - completely new, early builds of the modpack. For example, when a drop has just released, but most mods are not updated or included yet. Also used when a new mod is added with raw configuration, or when a mod is removed.
+- `alpha` - early builds of the modpack. For example, when a drop has just released, but most mods are not updated or included yet. Also used when a new mod is added with raw configuration, or when a mod is removed.
 
 - `beta` - builds where issues with configuration are partially fixed, but not all mods may be updated for the required drop yet.
 

@@ -22,6 +22,7 @@ Not all functionality and hotkeys are listed here. For deeper reference visit [o
 | Inventory HUD+ | Open config | `O` |
 | Jade | Show details | `Left Shift` |
 | Quick Actions | Open quick actions | `F7` |
+| Zoomify | Default zoom | `C` |
 | Zoomify | Secondary zoom | `F6` |
 
 ## MaLiLib

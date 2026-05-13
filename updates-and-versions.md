@@ -30,6 +30,6 @@ As players and developers, we should respect mod authors and give them time to m
 
 ## Will new features be backported to older modpack versions?
 
-Nope. There is simply not enough time and capacity for this right now.
+Nope. There is simply not enough time and opportunity for this right now.
 
 We will wait until the modpack has a contributor base that can help with backporting, when and if that happens. Then we can give this idea a chance and bring it to life.

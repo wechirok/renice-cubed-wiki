@@ -2,6 +2,15 @@
 
 ## Video settings
 
+## First-launch and your privacy
+
+| Option | Vanilla | Renice³ |
+|---|---:|---:|
+| `joinedFirstServer` | `false` | `true` |
+| `onboardAccessibility` | `false` | `false` |
+| `skipMultiplayerWarning` | `false` | `true` |
+| `telemetryOptInExtra` | `false` | `false` |
+
 | Option | Vanilla | Renice³ |
 |---|---:|---:|
 | `graphicsPreset` | `"fancy"` | `"custom"` |
@@ -16,15 +25,6 @@
 | `particles` | `0` | `1` |
 | `weatherRadius` | `10` | `5` |
 | `prioritizeChunkUpdates` | `1` | `0` |
-
-## First-launch and your privacy
-
-| Option | Vanilla | Renice³ |
-|---|---:|---:|
-| `joinedFirstServer` | `false` | `true` |
-| `onboardAccessibility` | `false` | `false` |
-| `skipMultiplayerWarning` | `false` | `true` |
-| `telemetryOptInExtra` | `false` | `false` |
 
 ## UI & HUD
 

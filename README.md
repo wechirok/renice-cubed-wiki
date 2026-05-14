@@ -10,16 +10,16 @@ It is meant to help you quickly find practical info about how the pack is config
 
 ## Wiki contents
 
-- **[Standard options](standard-options.md)** — what standard settings the modpack changes.
-- **[Mod usage](mod-usage.md)** — everything about how the modpack improves utility mod settings. How to use them, new hotkeys, and other features.
-- **[Multiplayer](multiplayer.md)** — how the modpack affects the multiplayer experience.
-- **[Updates and versions](updates-and-versions.md)** — how updates work, how often releases come out and so on.
+- **[Standard options](standard-options.md)** - what standard settings the modpack changes.
+- **[Mod usage](mod-usage.md)** - everything about how the modpack improves utility mod settings. How to use them, new hotkeys, and other features.
+- **[Multiplayer](multiplayer.md)** - how the modpack affects the multiplayer experience.
+- **[Updates and versions](updates-and-versions.md)** - how updates work, how often releases come out and so on.
 
 ## External resources
 
-- **[GitHub repository](https://github.com/wechirok/renice-cubed)** — main project repository.
-- **[Mod list](https://github.com/wechirok/renice-cubed/blob/main/MOD-LIST.md)** — current included mods.
-- **[Changelog](https://github.com/wechirok/renice-cubed/blob/main/CHANGELOG.md)** — release history.
+- **[GitHub repository](https://github.com/wechirok/renice-cubed)** - main project repository.
+- **[Mod list](https://github.com/wechirok/renice-cubed/blob/main/MOD-LIST.md)** - current included mods.
+- **[Changelog](https://github.com/wechirok/renice-cubed/blob/main/CHANGELOG.md)** - release history.
 
 {% hint style="warning" %}
 Pack versions are released dynamically, so some wiki details may not always match the latest version. We try to keep the wiki fully up to date.

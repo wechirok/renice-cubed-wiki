@@ -4,15 +4,16 @@
 
 Greetings! :з
 
-This wiki is a compact reference for configuration, utility workflows, multiplayer notes, and other practical details.
+This wiki explains how Renice³ affects your overall gameplay experience and how you can use everything included in the modpack.
 
-It is meant to help you quickly find practical information about how the pack is configured, how selected utility mods are intended to be used, and what to keep in mind when playing with others.
+It is meant to help you quickly find practical info about how the pack is configured, how selected utility mods are intended to be used, and what to keep in mind.
 
 ## Wiki contents
 
-- **[Standard options](standard-options.md)** — lists the vanilla settings replaced by the modpack’s default options.
-- **[Mod usage](mod-usage.md)** — explains practical usage of selected utility mods and their keybinds.
-- **[Multiplayer](multiplayer.md)** — explains how to open a world to friends and notes multiplayer restrictions.
+- **[Standard options](standard-options.md)** — what standard settings the modpack changes.
+- **[Mod usage](mod-usage.md)** — everything about how the modpack improves utility mod settings. How to use them, new hotkeys, and other features.
+- **[Multiplayer](multiplayer.md)** — how the modpack affects the multiplayer experience.
+- **[Updates and versions.](updates-and-versions.md)** — how updates work, how often releases come out and so on.
 
 ## External resources
 

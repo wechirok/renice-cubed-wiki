@@ -1,7 +1,5 @@
 # Standard options
 
-## Video settings
-
 ## First-launch and your privacy
 
 | Option | Vanilla | Renice³ |

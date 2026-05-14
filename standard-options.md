@@ -11,6 +11,8 @@
 | `skipMultiplayerWarning` | `false` | `true` |
 | `telemetryOptInExtra` | `false` | `false` |
 
+## Video settings
+
 | Option | Vanilla | Renice³ |
 |---|---:|---:|
 | `graphicsPreset` | `"fancy"` | `"custom"` |

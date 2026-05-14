@@ -20,3 +20,7 @@ It is meant to help you quickly find practical info about how the pack is config
 - **[GitHub repository](https://github.com/wechirok/renice-cubed)** — main project repository.
 - **[Mod list](https://github.com/wechirok/renice-cubed/blob/main/MOD-LIST.md)** — current included mods.
 - **[Changelog](https://github.com/wechirok/renice-cubed/blob/main/CHANGELOG.md)** — release history.
+
+{% hint style="warning" %}
+Pack versions are released dynamically, so some wiki details may not always match the latest version. We try to keep the wiki fully up to date.
+{% endhint %}

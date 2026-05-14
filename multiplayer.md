@@ -1,6 +1,6 @@
 # Multiplayer
 
-The modpack is comfortable for both regular servers and small sessions with friends. The pack adds temporary world hosting, proximity voice chat, cleaner chat behavior, and better navigation tools without changing the core multiplayer flow.
+The modpack is comfortable for both servers and sessions with friends. The pack adds world hosting, voice chat, cleaner chat behavior, and better navigation tools.
 
 ## Joining servers
 
